@@ -1,0 +1,8 @@
+# @title java-idp
+# @description SVN Repository: Java Identity Provider
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:54:16 GMT 2013
+/instance/org.eclipse.team.svn.core/repositories/304fff18717c00121be6872b06b99714=304fff18717c00121be6872b06b99714;https\://svn.shibboleth.net/java-identity-provider;Shibboleth\: Java Identity Provider;branches;tags;trunk;true;03af267c-bfd3-464a-89ef-4aea903fec54;https\://svn.shibboleth.net/java-identity-provider;;false;;;0
+file_export_version=3.0

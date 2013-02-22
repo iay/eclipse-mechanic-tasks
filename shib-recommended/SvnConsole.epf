@@ -1,0 +1,8 @@
+# @title ShibRecSvnConsole
+# @description Shibboleth recommended: Svn console on output
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:44:48 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.ui/preference.console.autoshow=1

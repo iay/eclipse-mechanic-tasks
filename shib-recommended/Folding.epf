@@ -1,0 +1,8 @@
+# @title ShibRecFolding
+# @description Shibboleth recommended: enable folding
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:07:03 GMT 2013
+file_export_version=3.0
+/bundle_defaults/org.eclipse.wst.sse.ui/foldingEnabled=true

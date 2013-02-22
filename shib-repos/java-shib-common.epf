@@ -1,0 +1,8 @@
+# @title java-shib-common
+# @description SVN Repository: Java Shibboleth Common Library
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:40:21 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/a09f17156f7c00121be6872b06b99714=a09f17156f7c00121be6872b06b99714;https\://svn.shibboleth.net/java-shib-common;Shibboleth\: Java Shibboleth Common Library;branches;tags;trunk;true;767a48ae-5022-0410-a543-991e1dd9561f;https\://svn.shibboleth.net/java-shib-common;;false;;;0

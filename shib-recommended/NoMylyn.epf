@@ -1,0 +1,8 @@
+# @title ShibRecNoMylyn
+# @description Shibboleth recommended: don't start Mylyn
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:09:12 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;org.eclipse.mylyn.builds.ui;org.eclipse.mylyn.tasks.ui;org.eclipse.mylyn.team.ui;

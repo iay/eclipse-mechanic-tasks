@@ -1,0 +1,8 @@
+# @title js-eds
+# @description SVN Repository: Embedded Discovery Service
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:58:26 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/00fe6eac717c00121be6872b06b99714=00fe6eac717c00121be6872b06b99714;https\://svn.shibboleth.net/js-embedded-discovery;Shibboleth\: Embedded Discovery Service;branches;tags;trunk;true;7a317f17-d332-475d-8e12-9585b3027fa7;https\://svn.shibboleth.net/js-embedded-discovery;;false;;;0

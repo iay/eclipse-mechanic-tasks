@@ -1,0 +1,9 @@
+# @title ShibReqTextEditors
+# @description Shibboleth required: Text Editors
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 17:27:52 GMT 2013
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+file_export_version=3.0

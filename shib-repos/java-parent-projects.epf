@@ -1,0 +1,8 @@
+# @title JavaParentProjects
+# @description SVN repository: Java Parent Projects
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:51:52 GMT 2013
+/instance/org.eclipse.team.svn.core/repositories/802eb773577c00121a1bcf1ab496be37=802eb773577c00121a1bcf1ab496be37;https\://svn.shibboleth.net/java-parent-projects;Shibboleth\: Java parent projects;branches;tags;trunk;true;1a8ce288-ac6e-485a-afaa-f50701996f9f;https\://svn.shibboleth.net/java-parent-projects;;false;;;0
+file_export_version=3.0

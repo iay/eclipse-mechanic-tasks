@@ -1,0 +1,10 @@
+# @title ShibRecSvnDecorations
+# @description Shibboleth recommended: Subversion text decorations
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:46:17 GMT 2013
+/instance/org.eclipse.team.svn.ui/preference.decoration.format.folder={outgoing_flag} {name}
+/instance/org.eclipse.team.svn.ui/preference.decoration.format.project={outgoing_flag} {name}
+file_export_version=3.0
+/instance/org.eclipse.team.svn.ui/preference.decoration.format.file={outgoing_flag} {name}

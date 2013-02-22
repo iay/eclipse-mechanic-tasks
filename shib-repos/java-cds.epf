@@ -1,0 +1,8 @@
+# @title java-cds
+# @description SVN Repository: Java Centralized Discovery Service
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:53:03 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/00acb5e0707c00121be6872b06b99714=00acb5e0707c00121be6872b06b99714;https\://svn.shibboleth.net/java-centralized-discovery;Shibboleth\: Java Centralized Discovery Service;branches;tags;trunk;true;e8cd5402-bb16-0410-85ab-e80993326bc1;https\://svn.shibboleth.net/java-centralized-discovery;;false;;;0

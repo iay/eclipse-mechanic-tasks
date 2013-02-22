@@ -1,0 +1,8 @@
+# @title cpp-sp
+# @description SVN Repository: C++ Service Provider
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:48:34 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/30940051707c00121be6872b06b99714=30940051707c00121be6872b06b99714;https\://svn.shibboleth.net/cpp-sp;Shibboleth\: C++ Service Provider;branches;tags;trunk;true;cb58f699-b61c-0410-a6fe-9272a202ed29;https\://svn.shibboleth.net/cpp-sp;;false;;;0

@@ -1,0 +1,8 @@
+# @title java-mda
+# @description SVN Repository: Metadata Aggregator
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:55:37 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/3027c845717c00121be6872b06b99714=3027c845717c00121be6872b06b99714;https\://svn.shibboleth.net/java-metadata-aggregator;Shibboleth\: Metadata Aggregator;branches;tags;trunk;true;c2f233c9-5cc1-4b7f-a034-784bffc07f15;https\://svn.shibboleth.net/java-metadata-aggregator;;false;;;0

@@ -1,0 +1,8 @@
+# @title ShibRecAutoUpdates
+# @description Shibboleth recommended: auto updates
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:12:24 GMT 2013
+file_export_version=3.0
+/profile/file\:\:\\2fApplications\\2feclipse-juno\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.ui.sdk.scheduler/enabled=true

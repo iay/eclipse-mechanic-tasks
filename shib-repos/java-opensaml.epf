@@ -1,0 +1,8 @@
+# @title java-opensaml
+# @description SVN Repository: Java OpenSAML library
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:57:03 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/207dae73717c00121be6872b06b99714=207dae73717c00121be6872b06b99714;https\://svn.shibboleth.net/java-opensaml;Shibboleth\: Java OpenSAML Library;branches;tags;trunk;true;b8276f27-d41f-4ffb-8289-9a0d50c8392a;https\://svn.shibboleth.net/java-opensaml;;false;;;0

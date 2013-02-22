@@ -1,0 +1,8 @@
+# @title utilities
+# @description SVN Repository: Shibboleth Utilities
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:44:12 GMT 2013
+/instance/org.eclipse.team.svn.core/repositories/b0e525b56f7c00121be6872b06b99714=b0e525b56f7c00121be6872b06b99714;https\://svn.shibboleth.net/utilities;Shibboleth\: Utilities;branches;tags;trunk;true;254e1ee3-bf17-0410-b962-eb90d9223d0a;https\://svn.shibboleth.net/utilities;;false;;;0
+file_export_version=3.0

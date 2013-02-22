@@ -1,0 +1,9 @@
+# @title SvnDateFormat
+# @description Subversion date format
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:47:45 GMT 2013
+/instance/org.eclipse.team.svn.ui/preference.dateFormat.dateFormat=3
+file_export_version=3.0
+/instance/org.eclipse.team.svn.ui/preference.dateFormat.dateFormatCustom=dd-MM-yyyy HH\:mm

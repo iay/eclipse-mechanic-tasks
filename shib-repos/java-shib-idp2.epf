@@ -1,0 +1,8 @@
+# @title java-shib-idp2
+# @description SVN Repository: Java Shibboleth Identity Provider, version 2
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:41:47 GMT 2013
+/instance/org.eclipse.team.svn.core/repositories/c04efc516f7c00121be6872b06b99714=c04efc516f7c00121be6872b06b99714;https\://svn.shibboleth.net/java-shib-idp2;Shibboleth\: Java Shibboleth Identity Provider, version 2;branches;tags;trunk;true;64f62902-bb16-0410-b959-baa05c2843ad;https\://svn.shibboleth.net/java-shib-idp2;;false;;;0
+file_export_version=3.0

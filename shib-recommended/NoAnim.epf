@@ -1,0 +1,8 @@
+# @title ShibRecNoAnim
+# @description Shibboleth recommended: no animations
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:05:33 GMT 2013
+/instance/org.eclipse.ui/ENABLE_ANIMATIONS=false
+file_export_version=3.0

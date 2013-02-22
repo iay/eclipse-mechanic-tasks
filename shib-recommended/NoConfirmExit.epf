@@ -1,0 +1,8 @@
+# @title ShibRecNoConfirmExit
+# @description Shibboleth recommended: don't confirm exit
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 18:08:11 GMT 2013
+/instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+file_export_version=3.0

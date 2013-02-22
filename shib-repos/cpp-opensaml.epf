@@ -1,0 +1,8 @@
+# @title cpp-opensaml
+# @description SVN Repository: C++ OpenSAML library
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Feb 21 21:46:19 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/e05327f76f7c00121be6872b06b99714=e05327f76f7c00121be6872b06b99714;https\://svn.shibboleth.net/cpp-opensaml;Shibboleth\: C++ OpenSAML library;branches;tags;trunk;true;fb386ef7-a10c-0410-8ebf-fd3f8e989ab0;https\://svn.shibboleth.net/cpp-opensaml;;false;;;0
