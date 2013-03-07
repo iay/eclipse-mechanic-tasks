@@ -1,0 +1,8 @@
+# @title SVN: Santuario
+# @description Apache Santuario repository
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Mar 07 11:27:13 GMT 2013
+file_export_version=3.0
+/instance/org.eclipse.team.svn.core/repositories/1088fda31987001219cbf279f59cc607=1088fda31987001219cbf279f59cc607;http\://svn.apache.org/repos/asf/santuario/;Apache\: Santuario;branches;tags;trunk;true;13f79535-47bb-0310-9956-ffa450edef68;http\://svn.apache.org/repos/asf;;false;;;0
