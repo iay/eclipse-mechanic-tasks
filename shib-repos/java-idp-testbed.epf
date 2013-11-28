@@ -1,0 +1,8 @@
+# @title Shibboleth IdP Testbed
+# @description Shibboleth IdP Testbed
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Nov 28 12:46:55 GMT 2013
+/instance/org.eclipse.team.svn.core/repositories/609f90b22a58001316fbb32a28ba9f2e=609f90b22a58001316fbb32a28ba9f2e;https\://svn.shibboleth.net/java-idp-testbed;Shibboleth\: Java IdP Testbed;branches;tags;trunk;true;4d462b08-95d2-451c-9311-5e23396c83f8;https\://svn.shibboleth.net/java-idp-testbed;;false;;;0
+file_export_version=3.0
