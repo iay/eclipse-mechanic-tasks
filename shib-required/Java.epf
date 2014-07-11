@@ -5,4 +5,4 @@
 # Created by the Workspace Mechanic Preference Recorder
 #Thu Feb 21 17:32:26 GMT 2013
 file_export_version=3.0
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=false
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
