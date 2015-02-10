@@ -1,6 +1,6 @@
-# mechanic-juno
+# eclipse-mechanic
 
-_Ian's Workspace Mechanic tasks for Eclipse Juno and Kepler_
+_Ian's Workspace Mechanic tasks for Eclipse_
 
 This is an experiment in using the [Workspace Mechanic](http://code.google.com/a/eclipselabs.org/p/workspacemechanic/) plugin to automate the maintenance of my [Eclipse](http://eclipse.org) workspaces.  If you work with the [Shibboleth](http://shibboleth.net) source code, it may help to automate your workspace setup too.
 
@@ -16,4 +16,4 @@ When you install Workspace Mechanic, it starts out looking for tasks in a couple
 
 Setting up a new workspace therefore involves adding the `/shib-required/` and `/shib-recommended/` directories to the Workspace Mechanic preferences, and further adding `/shib-repos/` directory if the workspace is for Shibboleth work.
 
-Everything here *seems* to work just as well in Eclipse Kepler (V4.3, 2013) as it did in Eclipse Juno (V4.2, 2012).  So, probably a bad choice of project name there.
+Everything here *seems* to work just as well in Eclipse Luna (V4.4, 2014) and Eclipse Kepler (V4.3, 2013) as it did in Eclipse Juno (V4.2, 2012).
