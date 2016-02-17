@@ -1,4 +1,4 @@
-# eclipse-mechanic
+# eclipse-mechanic-tasks
 
 _Ian's Workspace Mechanic tasks for Eclipse_
 
